@@ -1,2 +1,4 @@
-rootProject.name = "SubmissionBFAA2"
+rootProject.name = "SubmissionMADE1"
 include ':app'
+include ':core'
+include ':favorite'

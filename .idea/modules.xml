@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SubmissionBFAA2.iml" filepath="$PROJECT_DIR$/.idea/modules/SubmissionBFAA2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SubmissionBFAA2.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SubmissionBFAA2.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SubmissionMADE1.iml" filepath="$PROJECT_DIR$/.idea/modules/SubmissionMADE1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SubmissionMADE1.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SubmissionMADE1.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/SubmissionMADE1.core.iml" filepath="$PROJECT_DIR$/.idea/modules/core/SubmissionMADE1.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/favorite/SubmissionMADE1.favorite.iml" filepath="$PROJECT_DIR$/.idea/modules/favorite/SubmissionMADE1.favorite.iml" />
     </modules>
   </component>
 </project>

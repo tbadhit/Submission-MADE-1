@@ -28,15 +28,21 @@
         <entry key="app/src/main/res/drawable/ic_search_24.xml" value="0.26974358974358975" />
         <entry key="app/src/main/res/drawable/searchview_background.xml" value="0.26974358974358975" />
         <entry key="app/src/main/res/layout-v23/activity_main.xml" value="0.11388888888888889" />
-        <entry key="app/src/main/res/layout/activity_detail.xml" value="0.3649661483669418" />
+        <entry key="app/src/main/res/layout/activity_detail.xml" value="0.23857868020304568" />
         <entry key="app/src/main/res/layout/activity_favorite.xml" value="0.1517037038249179" />
+        <entry key="app/src/main/res/layout/activity_home.xml" value="0.25" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.19862845094221135" />
         <entry key="app/src/main/res/layout/activity_splash_screen.xml" value="0.14074074074074075" />
-        <entry key="app/src/main/res/layout/fragment_follower.xml" value="0.11388888888888889" />
-        <entry key="app/src/main/res/layout/fragment_following.xml" value="0.11388888888888889" />
+        <entry key="app/src/main/res/layout/fragment_favorite.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_follower.xml" value="0.3024646335177952" />
+        <entry key="app/src/main/res/layout/fragment_following.xml" value="0.1967547946506076" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.489251708984375" />
         <entry key="app/src/main/res/layout/item_row_user.xml" value="0.24933141835270242" />
         <entry key="app/src/main/res/layout/switch_layout.xml" value="0.15092592592592594" />
         <entry key="app/src/main/res/menu/main_menu.xml" value="0.21361530736329584" />
+        <entry key="core/src/main/res/layout/item_row_user.xml" value="0.25" />
+        <entry key="favorite/src/main/res/layout/activity_favorite.xml" value="0.25" />
+        <entry key="favorite/src/main/res/layout/fragment_favorite.xml" value="0.25" />
       </map>
     </option>
   </component>
